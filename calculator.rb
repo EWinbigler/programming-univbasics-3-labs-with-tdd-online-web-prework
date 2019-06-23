@@ -1,3 +1,3 @@
 def first_number(number)
-puts 
+puts # {1}
 end
