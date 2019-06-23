@@ -1,3 +1,3 @@
-def first_number(number)
-puts # {1}
+def first_number(2)
+
 end
